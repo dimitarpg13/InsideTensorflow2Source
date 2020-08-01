@@ -1,0 +1,23 @@
+
+a {  
+     text-decoration:none;  
+}  
+a:hover {  
+     color:000;  
+}  
+
+#addUsersLink {visibility:hidden;}
+
+#addPageLink {visibility:hidden}
+
+#addBlogLink {visibility:hidden}
+
+.adaptavist-psl-warning {display: none;}
+    
+#addSpaceLink { 
+    border-left-width: 1px; 
+    border-top-left-radius: 3.01px; 
+    border-bottom-left-radius: 3.01px; 
+}
+
+
